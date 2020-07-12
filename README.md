@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/KJ.png" width="25" />
+💬 Who am i ?
 
-<!--
-**bt0r/bt0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thibaut, back-end developer who loves working on differents stack (back, front, system and mobile..)
 
-Here are some ideas to get you started:
+Sometimes i stream on [twitch](https://twitch.tv/bt0r), sometimes i [tweet](https://twitter.com/biiitor) and rest of times i write code for myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/RS.png" width="25" />
+
+💗 My actual techs trend
+* ReactNative
+* Typescript
+* Kubernetes (K3S ❤️) 
+* Symfony / PHP
+
+⚙️ Hobbies
+
+* Write articles for my [personal website](https://btor.fr)
+* Develop mobile app using ReactNative
+* (Try) to draw shitty things on iPad <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/NO.png" width="25" /> (Not a real success)
+
+
+[More information here](http://btor.fr/qui-suis-je/)
