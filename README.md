@@ -7,7 +7,7 @@ Sometimes i stream on [twitch](https://twitch.tv/bt0r), sometimes i [tweet](http
 
 I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/RS.png" width="25" />
 
-💗 My actual techs trend
+💗 My current techs trend
 * ReactNative
 * Typescript
 * Kubernetes (K3S ❤️) 
