@@ -17,7 +17,7 @@ I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www
 ⚙️ Hobbies
 
 * Write articles for my [personal website](https://btor.fr)
-* Currently working on [Cryptor](cryptorproject.com), a twitch channel who let you invest in crypto-currencies throught twitch.
+* Currently working on [Cryptor](https://cryptorproject.com), a twitch channel who let you invest in crypto-currencies throught twitch.
 * Develop mobile app using ReactNative
 * (Try) to draw shitty things on iPad <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/NO.png" width="25" /> (Not a real success)
 
