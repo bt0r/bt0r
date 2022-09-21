@@ -12,7 +12,7 @@ I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www
 * Typescript
 * GoLang
 * Kubernetes (K3S ❤️) 
-* Symfony / PHP
+* Rust
 
 ⚙️ Hobbies
 
@@ -20,5 +20,8 @@ I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www
 * Develop mobile app using ReactNative
 * (Try) to draw shitty things on iPad <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/NO.png" width="25" /> (Not a real success)
 
+
+👋🏻 My old techs trend
+* Symfony / PHP 
 
 [More information here](http://btor.fr/qui-suis-je/)
