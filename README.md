@@ -8,6 +8,7 @@ Sometimes i stream on twitch (currently paused), sometimes i [tweet](https://twi
 I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/RS.png" width="25" />
 
 💗 My current techs trend
+* AI (obviously)
 * ReactNative
 * Typescript
 * GoLang
@@ -22,6 +23,7 @@ I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www
 
 
 👋🏻 My old techs trend
-* Symfony / PHP 
+* Symfony / PHP
+* Java
 
 [More information here](http://btor.fr/qui-suis-je/)
