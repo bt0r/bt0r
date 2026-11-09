@@ -9,21 +9,21 @@ I love using emotes and GIF <img src="https://raw.githubusercontent.com/bt0r/www
 
 💗 My current techs trend
 * AI (obviously)
+* Ham radio (uConsole/ADSB/ACARS/Voice...)
+* Lora w/ Meshcore/Meshtastic
 * ReactNative
 * Typescript
 * GoLang
-* Kubernetes (K3S ❤️) 
-* Rust
-
+* Kubernetes (K3S ❤️)
+  
 ⚙️ Hobbies
-
 * Write articles for my [personal website](https://btor.fr)
-* Develop mobile app using ReactNative
 * (Try) to draw shitty things on iPad <img src="https://raw.githubusercontent.com/bt0r/www.btor.fr/master/assets/images/emote/NO.png" width="25" /> (Not a real success)
 
 
 👋🏻 My old techs trend
 * Symfony / PHP
 * Java
+* Coding
 
 [More information here](http://btor.fr/qui-suis-je/)
